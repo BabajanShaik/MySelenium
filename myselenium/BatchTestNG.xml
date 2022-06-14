@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+
+  <test  name="RegressionTest">
+  <parameter name="browser" value="firefox"></parameter>
+    <classes>
+      <class name="testNG.LinksTesting1"/>
+      <class name="testNG.TNG002"/>
+      <class name="testNG.CheckBox1"/>
+      <class name="testNG.RadioButton1"/>
+      <class name="testNG.JavaClass"/>
+    </classes>
+  </test> <!-- RegressionTest -->
+</suite> <!-- RegressionSuite -->

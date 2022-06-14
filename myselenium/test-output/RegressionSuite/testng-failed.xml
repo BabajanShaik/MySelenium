@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="RegressionTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testNG.RadioButton1">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="radioButtonTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- testNG.RadioButton1 -->
+    </classes>
+  </test> <!-- RegressionTest(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->

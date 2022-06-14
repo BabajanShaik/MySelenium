@@ -1,0 +1,24 @@
+Initiate the Properties Files....
+Opening the Browser :-chrome
+Navigating to Application :https://www.amazon.in
+Selecting Option By Using Locator :searchDropdownBox
+Typing Text Harry Potter By Using Locator : twotabsearchtextbox
+Clicked on Element By Using Locator ://input[@id='nav-search-submit-button']
+Initiate the Properties Files....
+Opening the Browser :-chrome
+Navigating to Application :https://www.amazon.in
+Selecting Option By Using Locator :searchDropdownBox
+Typing Text Harry Potter By Using Locator : twotabsearchtextbox
+Clicked on Element By Using Locator ://input[@id='nav-search-submit-button']
+Initiate the Properties Files....
+Opening the Browser :-chrome
+Navigating to Application :https://www.amazon.in
+Selecting Option By Using Locator :searchDropdownBox
+Typing Text Harry Potter By Using Locator : twotabsearchtextbox
+Clicked on Element By Using Locator ://input[@id='nav-search-submit-button']
+Retrying test amazon with status FAILURE for the 1 time(s).
+Retrying test amazon with status FAILURE for the 2 time(s).
+Retrying test amazon with status FAILURE for the 3 time(s).
+Retrying test amazon with status FAILURE for the 1 time(s).
+Retrying test amazon with status FAILURE for the 2 time(s).
+Retrying test amazon with status FAILURE for the 3 time(s).
